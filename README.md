@@ -1,6 +1,6 @@
 ## Hi, I'm Timilehin Shobande 👋
 
-**Software engineer and product builder.** I'm the founder of [BossFx](https://youtube.com/@officialbossfx), a fintech education platform — which means I've spent the last two years designing, shipping, and operating production software solo: Next.js + TypeScript frontends, Supabase/PostgreSQL backends, payment integration, analytics, and the automation that keeps a one-person company running.
+**Software engineer and product builder.** I'm the founder of [BossFx](https://bossfxcademy.com), a fintech education platform — which means I've spent the last two years designing, shipping, and operating production software solo: Next.js + TypeScript frontends, Supabase/PostgreSQL backends, payment integration, analytics, and the automation that keeps a one-person company running.
 
 I build technology that solves meaningful real-world problems.
 
