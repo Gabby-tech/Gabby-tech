@@ -22,5 +22,7 @@ I build technology that solves meaningful real-world problems.
 
 ### Reach me
 
+- 🌐 [Portfolio & case studies](https://timilehin-shobande.vercel.app)
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/shobande-timilehin-3386711a0)
 - 📫 bossfx.official@gmail.com
