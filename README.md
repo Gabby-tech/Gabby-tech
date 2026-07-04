@@ -1,0 +1,26 @@
+## Hi, I'm Timilehin Shobande 👋
+
+**Software engineer and product builder.** I'm the founder of [BossFx](https://youtube.com/@officialbossfx), a fintech education platform — which means I've spent the last two years designing, shipping, and operating production software solo: Next.js + TypeScript frontends, Supabase/PostgreSQL backends, payment integration, analytics, and the automation that keeps a one-person company running.
+
+I build technology that solves meaningful real-world problems.
+
+### What I'm building now
+
+- 🛠 **BossFx platform** — production fintech-education platform (Next.js, TypeScript, Tailwind, Supabase, PostgreSQL, Flutterwave payments, deployed on Vercel)
+- 📊 **BossFx Trading Journal** — trade logging with AI-assisted performance analysis, in development
+- 🤖 **Algorithmic trading systems** — MQL5 Expert Advisors with risk-management logic and backtest-driven validation
+
+### Stack
+
+`TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS` `Node.js` `Supabase` `PostgreSQL` `SQL` `Python` `MQL5` `Git` `Vercel`
+
+### Background
+
+- 🎓 B.Sc. Computer Science, University of Lagos (2026)
+- 🏗 Founder & engineer at BossFx Academy — fintech education (2024–present)
+- ✍️ I also teach: structured trading curriculum, webinars, and mentorship
+
+### Reach me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shobande-timilehin-3386711a0)
+- 📫 bossfx.official@gmail.com
