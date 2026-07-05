@@ -20,6 +20,10 @@ I build technology that solves meaningful real-world problems.
 - 🏗 Founder & engineer at BossFx Academy — fintech education (2024–present)
 - ✍️ I also teach: structured trading curriculum, webinars, and mentorship
 
+### Writing
+
+- ✍️ [The Website I Rebuilt Ended Up Rebuilding Me](https://timilehin-shobande.vercel.app/writing/the-website-i-rebuilt-ended-up-rebuilding-me) — what leaving a website builder and owning my own stack actually taught me
+
 ### Reach me
 
 - 🌐 [Portfolio & case studies](https://timilehin-shobande.vercel.app)
